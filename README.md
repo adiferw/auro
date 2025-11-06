@@ -30,3 +30,7 @@ Mobilbarát megjelenítés, azaz nem csak széles képernyőn jelenik meg igény
 # 2025-10-21
 - Routing megírása az App.jsx fájlban
 - Belépés + Regisztráció oldal kész
+
+# Mittoménmikor
+- NavBar komponens funkcionalitása és stílusbeállítása
+- Világos/sötét mód állapotkezelés
